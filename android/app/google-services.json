@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645056492006",
+    "project_id": "my-notesvandanpr",
+    "storage_bucket": "my-notesvandanpr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645056492006:android:455af66a27caa919e5e627",
+        "android_client_info": {
+          "package_name": "com.example.flutter_vandan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645056492006-8b5qftku1i43hk79ietefnudfog5e2pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQMbS8jV_pISXOP3s7620ghXvR-mUe5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645056492006-8b5qftku1i43hk79ietefnudfog5e2pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
